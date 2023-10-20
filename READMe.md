@@ -9,3 +9,5 @@ Fully digitised by the institution. These catalogues were digitised by the holdi
 Digitized as images taken by the researcher. The institutions did not digitise these catalogues but were manually captured photographically. An optical character recognition method was applied to the images to extract the textual information to access the data. This corpus contains 68 of these catalogues. i.e., 30% of the corpus. 
 
 Manually transcribed. The remaining 71 catalogues were not available for photographic capture due to copyright restrictions of the library and archive. I extracted the information manually, including any metadata required for classification.
+
+[ppt](https://docs.google.com/presentation/d/1QX7TD2YqFPJ6iA4P1XeloHcHs9yPORHOLIgVmO4YA-g/edit?usp=sharing)
